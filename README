@@ -1,4 +1,5 @@
 Initial:
+-Hi 
 -Quick fix: Subtitles stays on screen when playing a new video without subs, after exiting a video with subs
 -Fixed: "Return to Gui" and starting a video leads to crash 
 -Fixed: .avi files not playing after a .mkv, .mov or .mp4 file has been played 
